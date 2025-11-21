@@ -41,7 +41,7 @@ export function App(props: any) {
                 onChange={handleImputChange}
                 placeholder="Filter projects"
             />
-            <h2>Status: {props.status}</h2>
+            
             {Object.entries(groupedProjects).map(([status, projects]) => (
                 <div key={status}>
                     <br></br>
