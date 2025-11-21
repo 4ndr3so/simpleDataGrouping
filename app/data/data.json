@@ -1,0 +1,72 @@
+  [
+   {
+    "projSerialNumber": "01",
+    "jobNumber": "1023",
+    "name": "Greenfield Development",
+    "contractor": "Alpha Construction Inc.",
+    "status": "A"
+  },
+  {
+    "projSerialNumber": "05",
+    "jobNumber": "5099",
+    "name": "Coastal Highway Upgrade",
+    "contractor": "Epsilon Engineering",
+    "status": "A"
+  },
+  {
+    "projSerialNumber": "09",
+    "jobNumber": "9167",
+    "name": "Community Center Initiative",
+    "contractor": "Iota Innovations",
+    "status": "A"
+  },
+  {
+    "projSerialNumber": "02",
+    "jobNumber": "2045",
+    "name": "Skyline Tower Renovation",
+    "contractor": "Beta Builders LLC",
+    "status": "B"
+  },
+  {
+    "projSerialNumber": "06",
+    "jobNumber": "6100",
+    "name": "Urban Transit System",
+    "contractor": "Zeta Solutions",
+    "status": "B"
+  },
+  {
+    "projSerialNumber": "10",
+    "jobNumber": "1010",
+    "name": "Tech Park Development",
+    "contractor": "Kappa Constructors",
+    "status": "B"
+  },
+  {
+    "projSerialNumber": "03",
+    "jobNumber": "3056",
+    "name": "Riverside Park Expansion",
+    "contractor": "Gamma Group Ltd.",
+    "status": "C"
+  },
+  {
+    "projSerialNumber": "07",
+    "jobNumber": "7123",
+    "name": "Suburban Housing Project",
+    "contractor": "Eta Enterprises",
+    "status": "C"
+  },
+  {
+    "projSerialNumber": "04",
+    "jobNumber": "4078",
+    "name": "Downtown Plaza Revamp",
+    "contractor": "Delta Developers Co.",
+    "status": "D"
+  },
+  {
+    "projSerialNumber": "08",
+    "jobNumber": "8145",
+    "name": "Industrial Complex Build",
+    "contractor": "Theta Construction",
+    "status": "D"
+  }
+  ]
